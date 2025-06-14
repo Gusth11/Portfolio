@@ -6,12 +6,6 @@ A ideia foi criar um layout simples, responsivo e em modo escuro, como primeiro 
 
 ---
 
-## ✨ Visual
-
-🔗 Acesse aqui: [https://gusth11.github.io/Portfolio](https://gusth11.github.io/Portfolio)
-
----
-
 ## 🛠️ Tecnologias usadas
 
 - HTML5
