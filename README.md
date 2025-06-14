@@ -8,9 +8,7 @@ A ideia foi criar um layout simples, responsivo e em modo escuro, como primeiro 
 
 ## ✨ Visual
 
-![screenshot do site](https://via.placeholder.com/800x400?text=Print+do+site)
-
-🔗 Acesse aqui: [https://gusth11.github.io/portfolio](https://gusth11.github.io/portfolio)
+🔗 Acesse aqui: [https://gusth11.github.io/portfolio](https://gusth11.github.io/Portfolio)
 
 ---
 
